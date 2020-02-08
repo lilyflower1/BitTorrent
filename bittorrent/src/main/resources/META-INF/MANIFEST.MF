@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Main-Class: BitTorrentClient
+Class-Path: commons-codec-1.13.jar commons-dbcp2-2.6.0.jar avatica-metri
+ cs-1.15.0.jar commons-logging-1.2.jar commons-pool2-2.6.1.jar aggdesign
+ er-algorithm-6.0.jar calcite-linq4j-1.21.0.jar sketches-core-0.9.0.jar 
+ calcite-core-1.21.0.jar commons-lang3-3.8.jar jackson-core-2.9.9.jar me
+ mory-0.9.0.jar avatica-core-1.15.0.jar commons-io-2.6.jar commons-compi
+ ler-3.0.11.jar jackson-dataformat-yaml-2.9.9.jar commons-lang-2.4.jar j
+ ackson-databind-2.9.9.3.jar httpclient-4.5.6.jar guava-19.0.jar janino-
+ 3.0.11.jar json-path-2.4.0.jar snakeyaml-1.23.jar protobuf-java-3.6.1.j
+ ar esri-geometry-api-2.2.0.jar jackson-annotations-2.9.9.jar slf4j-api-
+ 1.7.25.jar httpcore-4.4.10.jar
+
